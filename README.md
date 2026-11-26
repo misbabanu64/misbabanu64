@@ -6,7 +6,7 @@ Aspiring Cloud Support Associate / Junior DevOps Engineer, learning DevOps in pu
 
 I'm on the **90 Days DevOps Challenge**. Every day I build something practical, save the evidence (screenshots and reports) and document it in a README.
 
-👉 [90-Days-DevOps-Challenge](https://github.com/misbabanu64/90-Days-DevOps-Challenge) (Day 13 completed)
+👉 [90-Days-DevOps-Challenge](https://github.com/misbabanu64/90-Days-DevOps-Challenge) (Day 50 completed)
 
 ## 🧰 What I've practiced so far
 
